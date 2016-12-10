@@ -2,7 +2,8 @@
 
 import os, sys, socket
 """
-Author: Dreyton Scott;
+Author: Dreyton Scott; Class:ITC510
+Due: 11/16/16;
 
 This Program runs a server on localhost with a port specified on
 program execution, for example(./client <server-port>). Server 

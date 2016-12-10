@@ -2,7 +2,8 @@
 
 import os,sys,socket
 """
-Author: Dreyton Scott;
+Author: Dreyton Scott; Class: ITC510;
+Due: 11/16/16;
 
 This program creates a client/socket and attempts to connect to server. Must provide same
 server address and server port upon execution of program. Once successfully connected the
